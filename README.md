@@ -99,5 +99,4 @@ npx react-native run-android
 ## Authors
 
 - Name: Charles Tiong Jung Zhi, Cheng Jun Yan, Justin Yii Zhu Yong, Lee San Hung
-- Student ID: 2305101,
 - Course: UECS3253 Wireless Application Development
