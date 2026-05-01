@@ -96,8 +96,8 @@ npx react-native run-android
 - Failed upload sets status to `failed`
 - Cloud screen shows WebSocket status and activity logs
 
-## Author
+## Authors
 
-- Name: [Your Name]
-- Student ID: [Your Student ID]
+- Name: Charles Tiong Jung Zhi, Cheng Jun Yan, Justin Yii Zhu Yong, Lee San Hung
+- Student ID: 2305101,
 - Course: UECS3253 Wireless Application Development
